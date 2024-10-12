@@ -1,0 +1,6 @@
+int a=b+c;
+char str=" ";
+if(a){
+a*b
+main(a)
+}
